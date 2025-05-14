@@ -1,0 +1,16 @@
+datasets
+google-genai
+huggingface-hub
+multiprocess
+numpy
+pandas
+torch
+torchaudio
+torchvision
+tqdm
+transformers
+openai
+alive_progress
+beautifulsoup4 
+lxml
+html5lib

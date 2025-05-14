@@ -1,0 +1,210 @@
+{
+    "tier-free": {
+        "Gemini-2.5-Pro-Preview-05-06": {
+            "rpm": -1,
+            "tpm": -1,
+            "rpd": -1,
+            "input_token_limit": 1048576,
+            "output_token_limit": 65536,
+            "extra-info": {}
+        },
+        "Gemini-2.0-Flash": {
+            "rpm": 15,
+            "tpm": 1000000,
+            "rpd": 1500,
+            "input_token_limit": 1048576,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        },
+        "Gemini-2.0-Flash-Preview-Image-Generation": {
+            "rpm": 10,
+            "tpm": 200000,
+            "rpd": 100,
+            "input_token_limit": 32000,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        },
+        "Gemini-2.0-Flash-Lite": {
+            "rpm": 30,
+            "tpm": 1000000,
+            "rpd": 1500,
+            "input_token_limit": 1048576,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        },
+        "Gemini-1.5-Flash": {
+            "rpm": 15,
+            "tpm": 250000,
+            "rpd": 500,
+            "input_token_limit": 1048576,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        },
+        "Gemini-1.5-Flash-8B": {
+            "rpm": 15,
+            "tpm": 250000,
+            "rpd": 500,
+            "input_token_limit": 1048576,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        },
+        "Gemini-1.5-Pro": {
+            "rpm": -1,
+            "tpm": -1,
+            "rpd": -1,
+            "input_token_limit": 2097152,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        }
+    },
+    "tier-1": {
+        "Gemini-2.5-Pro-Preview-05-06": {
+            "rpm": 150,
+            "tpm": 2000000,
+            "rpd": 1000,
+            "input_token_limit": 1048576,
+            "output_token_limit": 65536,
+            "extra-info": {}
+        },
+        "Gemini-2.0-Flash": {
+            "rpm": 2000,
+            "tpm": 4000000,
+            "rpd": 2147483647,
+            "input_token_limit": 1048576,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        },
+        "Gemini-2.0-Flash-Preview-Image-Generation": {
+            "rpm": 1000,
+            "tpm": 1000000,
+            "rpd": 10000,
+            "input_token_limit": 32000,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        },
+        "Gemini-2.0-Flash-Lite": {
+            "rpm": 4000,
+            "tpm": 4000000,
+            "rpd": 2147483647,
+            "input_token_limit": 1048576,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        },
+        "Gemini-1.5-Flash": {
+            "rpm": 2000,
+            "tpm": 4000000,
+            "rpd": 2147483647,
+            "input_token_limit": 1048576,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        },
+        "Gemini-1.5-Flash-8B": {
+            "rpm": 4000,
+            "tpm": 4000000,
+            "rpd": 2147483647,
+            "input_token_limit": 1048576,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        },
+        "Gemini-1.5-Pro": {
+            "rpm": 1000,
+            "tpm": 4000000,
+            "rpd": 2147483647,
+            "input_token_limit": 2097152,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        }
+    },
+    "tier-2": {
+        "Gemini-2.5-Pro-Preview-05-06": {
+            "rpm": 1000,
+            "tpm": 5000000,
+            "rpd": 50000,
+            "input_token_limit": 1048576,
+            "output_token_limit": 65536,
+            "extra-info": {}
+        },
+        "Gemini-2.0-Flash": {
+            "rpm": 10000,
+            "tpm": 10000000,
+            "rpd": 2147483647,
+            "input_token_limit": 1048576,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        },
+        "Gemini-2.0-Flash-Preview-Image-Generation": {
+            "rpm": 2000,
+            "tpm": 3000000,
+            "rpd": 100000,
+            "input_token_limit": 32000,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        },
+        "Gemini-2.0-Flash-Lite": {
+            "rpm": 20000,
+            "tpm": 10000000,
+            "rpd": 2147483647,
+            "input_token_limit": 1048576,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        },
+        "Gemini-1.5-Flash": {
+            "rpm": 2000,
+            "tpm": 4000000,
+            "rpd": 2147483647,
+            "input_token_limit": 1048576,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        },
+        "Gemini-1.5-Flash-8B": {
+            "rpm": 4000,
+            "tpm": 4000000,
+            "rpd": 2147483647,
+            "input_token_limit": 1048576,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        },
+        "Gemini-1.5-Pro": {
+            "rpm": 1000,
+            "tpm": 4000000,
+            "rpd": 2147483647,
+            "input_token_limit": 2097152,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        }
+    },
+    "tier-3": {
+        "Gemini-2.5-Pro-Preview-05-06": {
+            "rpm": 2000,
+            "tpm": 8000000,
+            "rpd": 2147483647,
+            "input_token_limit": 1048576,
+            "output_token_limit": 65536,
+            "extra-info": {}
+        },
+        "Gemini-2.0-Flash": {
+            "rpm": 30000,
+            "tpm": 30000000,
+            "rpd": 2147483647,
+            "input_token_limit": 1048576,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        },
+        "Gemini-2.0-Flash-Preview-Image-Generation": {
+            "rpm": 5000,
+            "tpm": 5000000,
+            "rpd": 2147483647,
+            "input_token_limit": 32000,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        },
+        "Gemini-2.0-Flash-Lite": {
+            "rpm": 30000,
+            "tpm": 30000000,
+            "rpd": 2147483647,
+            "input_token_limit": 1048576,
+            "output_token_limit": 8192,
+            "extra-info": {}
+        }
+    }
+}
